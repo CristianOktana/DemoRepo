@@ -1,5 +1,6 @@
 function function1() {
-    console.log('function1');
+    console.log('function 1');
+    console.log('feature #1');
 }
 
 function function2() {
