@@ -1,10 +1,9 @@
 function function1() {
-    console.log('print function1');
+    console.log('function1');
 }
 
 function function2() {
-    console.log('print function 2');
-    console.log('second commit');
+    console.log('function2');
 }
 
 function function3() {
